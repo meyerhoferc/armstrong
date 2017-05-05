@@ -3,7 +3,6 @@
 ## Principles
 Principles:
 - emphasizing commitment - we're doing progressive work that is building towards a thing
-- this is armstrong time - no outside projects / not being present to our work
 - we're a team; researching and working together to learn this cool technology
 - building community and network - alumni and Denver community engagement
 
